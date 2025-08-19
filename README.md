@@ -1,23 +1,20 @@
-Fun (Game-Style)
-About
-
 🐍💧🔫 Snake Water Gun Game
 Challenge the computer in this mini-game built with Python + Web UI!
 
-Snake 🐍 drinks water 💧
+            Snake 🐍 drinks water 💧
 
-Water 💧 sinks gun 🔫
+            Water 💧 sinks gun 🔫
 
-Gun 🔫 shoots snake 🐍
+            Gun 🔫 shoots snake 🐍
 
 ✨ Features:
 
-Play anytime with a simple click
+            Play anytime with a simple click
 
-Beautiful UI built using Eel + HTML/CSS/JS
+            Beautiful UI built using Eel + HTML/CSS/JS
 
-Random computer moves for endless fun
+            Random computer moves for endless fun
 
-Desktop app experience with Python
+            Desktop app experience with Python
 
-Perfect for learning Python, frontend integration, and game logic while having fun 🎮.
+            Perfect for learning Python, frontend integration, and game logic while having fun 🎮.
