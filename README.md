@@ -1,4 +1,4 @@
-🐍💧🔫 Snake Water Gun Game
+## 🐍💧🔫 Snake Water Gun Game
 Challenge the computer in this mini-game built with Python + Web UI!
 
             Snake 🐍 drinks water 💧
